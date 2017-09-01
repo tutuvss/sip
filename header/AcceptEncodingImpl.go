@@ -3,7 +3,7 @@ package header
 import (
 	"bytes"
 	"errors"
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 	"strconv"
 )
 

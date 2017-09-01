@@ -1,6 +1,6 @@
 package header
 
-import "sip/core"
+import "github.com/tutuvss/sip/core"
 
 /**
 * A list of Route Headers.

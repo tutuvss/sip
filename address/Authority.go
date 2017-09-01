@@ -1,7 +1,7 @@
 package address
 
 import (
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 )
 
 /**

@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"sip/core"
-	"sip/address"
-	"sip/header"
+	"github.com/tutuvss/sip/core"
+	"github.com/tutuvss/sip/address"
+	"github.com/tutuvss/sip/header"
 )
 
 /** SIPParser for AlertInfo header.

@@ -3,7 +3,7 @@ package address
 import (
 	"bytes"
 	"errors"
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 )
 
 /**

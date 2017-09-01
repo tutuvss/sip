@@ -1,6 +1,6 @@
 package header
 
-import "sip/address"
+import "github.com/tutuvss/sip/address"
 
 /**
  * The Authorization header is used when a user agent wishes to authenticate

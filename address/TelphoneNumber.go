@@ -3,7 +3,7 @@ package address
 import (
 	"bytes"
 	"container/list"
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 )
 
 /** Telephone number class.

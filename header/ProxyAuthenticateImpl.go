@@ -1,7 +1,7 @@
 package header
 
 import (
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 )
 
 /**

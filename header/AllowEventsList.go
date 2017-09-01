@@ -3,7 +3,7 @@ package header
 import (
 	"container/list"
 	"errors"
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 )
 
 /**

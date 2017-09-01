@@ -1,7 +1,7 @@
 package header
 
 import (
-	"sip/address"
+	"github.com/tutuvss/sip/address"
 )
 
 /** An abstract class for headers that take an address and parameters.

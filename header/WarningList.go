@@ -1,6 +1,6 @@
 package header
 
-import "sip/core"
+import "github.com/tutuvss/sip/core"
 
 /**
 * A Warning SIPObject. (A list of Warning headers).

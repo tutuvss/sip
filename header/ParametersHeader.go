@@ -2,7 +2,7 @@ package header
 
 import (
 	"container/list"
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 )
 
 type ParametersHeader interface {

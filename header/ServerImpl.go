@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"container/list"
 	"errors"
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 )
 
 /**

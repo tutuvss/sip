@@ -3,7 +3,7 @@ package header
 import (
 	"bytes"
 	"container/list"
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 )
 
 type Lister interface {

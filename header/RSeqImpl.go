@@ -2,7 +2,7 @@ package header
 
 import (
 	"errors"
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 	"strconv"
 )
 

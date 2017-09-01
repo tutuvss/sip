@@ -1,6 +1,6 @@
 package header
 
-import "sip/core"
+import "github.com/tutuvss/sip/core"
 
 /**
 * RecordRoute List of SIP headers (a collection of Addresses)

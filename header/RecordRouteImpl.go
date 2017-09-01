@@ -2,8 +2,8 @@ package header
 
 import (
 	"bytes"
-	"sip/core"
-	"sip/address"
+	"github.com/tutuvss/sip/core"
+	"github.com/tutuvss/sip/address"
 )
 
 /** The Request-Route header is added to a request by any proxy that insists on

@@ -2,8 +2,8 @@ package header
 
 import (
 	"bytes"
-	"sip/address"
-	"sip/core"
+	"github.com/tutuvss/sip/address"
+	"github.com/tutuvss/sip/core"
 )
 
 /**

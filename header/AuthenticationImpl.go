@@ -2,8 +2,8 @@ package header
 
 import (
 	"errors"
-	"sip/core"
-	"sip/address"
+	"github.com/tutuvss/sip/core"
+	"github.com/tutuvss/sip/address"
 	"strconv"
 	"strings"
 )

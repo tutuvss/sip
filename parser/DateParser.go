@@ -2,8 +2,8 @@ package parser
 
 import (
 	"errors"
-	"sip/core"
-	"sip/header"
+	"github.com/tutuvss/sip/core"
+	"github.com/tutuvss/sip/header"
 	"strings"
 	"time"
 )

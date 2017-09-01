@@ -1,7 +1,7 @@
 package header
 
 import (
-	"sip/address"
+	"github.com/tutuvss/sip/address"
 )
 
 /**

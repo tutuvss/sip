@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"sip/core"
+	"github.com/tutuvss/sip/core"
 	"strings"
 )
 

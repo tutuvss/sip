@@ -1,6 +1,6 @@
 package header
 
-import "sip/core"
+import "github.com/tutuvss/sip/core"
 
 /** The WWWAuthenticate SIP header.
 * @see WWWAuthenticateList SIPHeader which strings these together.
